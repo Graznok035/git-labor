@@ -1,8 +1,8 @@
 #Kasutamisjuhend
 
-##Skriptid
+#Skriptid
 
-###Hello.sh
+###hello.sh
 Tervitusprogramm.
 ```bash
 ./hello.sh
